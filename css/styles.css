@@ -11,8 +11,8 @@ body{
   font-family: Courier, monospace;
 
 }
-p{
-  font-family: Courier,monospace;
+p
+{font-family: 'Open Sans', sans-serif;
 }
 .top_container{
   background-color:#AEDBCE;
