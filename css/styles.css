@@ -1,0 +1,70 @@
+h1{
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-size: 45px;
+  font-weight:bold;
+
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Courier, monospace;
+
+}
+p{
+  font-family: Courier,monospace;
+}
+.top_container{
+  background-color:#AEDBCE;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+span{
+  text-decoration: underline;
+}
+.bottom_cloud{
+  position: absolute;
+  left:200px;
+  width: 10%;
+
+}
+.top_cloud{
+  position: relative;
+  left: 200px;
+  width: 10%;
+}
+.computer_img{
+
+  width:25%;
+}
+.tech_img{
+  position: relative;
+  width:10%;
+  left:100px;
+
+}
+.edu_img{
+  width:25%;
+}
+.python_img{
+  width:25%;
+}
+.film_img{
+  width:25%;
+}
+hr{
+  border: 1px solid #53BF9D;
+}
+.link_img{
+  width:4%;
+  padding-top: 13px;
+}
+.twit_img{
+  width:4%;
+}
+.git_img{
+  width:4%;
+}
+.mail_img{
+  width: 4%;
+}
